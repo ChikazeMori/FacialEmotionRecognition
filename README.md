@@ -1,7 +1,5 @@
 # Facial_Emotion_Recognition
 
-Description 🖋️
-
 This repository develops facial emotion recognition algorithms.
 
 Original Dataset:
