@@ -33,7 +33,7 @@ ORB |MLP|	41.3 + 133.6| 0.38
 HOG |SVM |102.3 + 441.4|0.65
 HOG |SVM |	102.3 + 12.2| 0.53
 HOG |MLP|	102.3 + 208.2 | 0.62
-|CNN|8557.9|**0.74**
+-|CNN|8557.9|**0.74**
 
 ## Conclusion 
 * SVM outperformed MLP
