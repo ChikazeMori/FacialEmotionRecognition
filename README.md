@@ -35,10 +35,12 @@ HOG |SVM |	102.3 + 12.2| 0.53
 HOG |MLP|	102.3 + 208.2 | 0.62
 -|CNN|8557.9|**0.74**
 
-## Conclusion 
-* SVM outperformed MLP
-* MLP is more capable of computational training than SVM and has potential to outperform SVM when it is trained with bigger size of hidden layers.
+## Examples of Results
 
+![]()
+
+## Conclusion 
+* CNN significantly outperforms the other models although it requires a lot of computation.
 
 ## Specifications
 
@@ -46,18 +48,17 @@ HOG |MLP|	102.3 + 208.2 | 0.62
 
 All jupyter notebooks are available as ipynb and designed to be run on Google Colab.
 
-* data_preparation: Clean the dataset
-* MLP_optimisation: Apply a grid search for MLP
-* SVM_optimisation: Apply a grid search for SVM
-* MLP_testing: Test the MLP model
-* SVM_testing: Test the SVM model
+* test_functions: Test EmotionRecognition and EmotionRecognitionVideo functions and displaying the results
 
 ### Folders
 
-* Code: Contains all of the codes implemented
+* CW_Folder_ChikazeMori_200038013: Contains all the files needed for this projeect
+* /Code: Contains all of the codes implemented
+* /Models: Stores all the models trained
+* /Video: Contains all the videos produced as outputs
 
 ### Files
 
-* MLP_optimised.joblib: The optimised MLP model
-* SVM_optimised.joblib: The optimised SVM model
+* Code/EmotionRecognition.py: Displays 4 random images from the test set with the model’s predictions and the true labels
+* Code/EmotionRecognitionVideo.py: Displays the results of CNN model tested on a video
 * Report: The report for the whole project
