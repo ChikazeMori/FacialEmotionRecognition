@@ -44,7 +44,7 @@ HOG |MLP|	102.3 + 208.2 | 0.62
 
 **Example of facial emotion recognition by the CNN model on a video**:
 
-![Example of facial emotion recognition by the CNN model on a video](https://github.com/ChikazeMori/Facial-Emotion-Recognition/blob/main/examples/video.git)
+![Example of facial emotion recognition by the CNN model on a video](https://github.com/ChikazeMori/Facial-Emotion-Recognition/blob/main/examples/video.gif)
 
 ## Conclusion 
 * CNN significantly outperforms the other models although it requires a lot of computation.
