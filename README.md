@@ -37,7 +37,14 @@ HOG |MLP|	102.3 + 208.2 | 0.62
 
 ## Examples of Results
 
-![]()
+**Examples of facial emotion recognition by the HOG- SVM model**:
+
+![Examples of facial emotion recognition by the HOG- SVM model](https://github.com/ChikazeMori/Facial-Emotion-Recognition/blob/main/examples/SVM_HOG.png)
+
+
+**Example of facial emotion recognition by the CNN model on a video**:
+
+![Example of facial emotion recognition by the CNN model on a video](https://github.com/ChikazeMori/Facial-Emotion-Recognition/blob/main/examples/video.git)
 
 ## Conclusion 
 * CNN significantly outperforms the other models although it requires a lot of computation.
