@@ -53,7 +53,7 @@ HOG |MLP|	102.3 + 208.2 | 0.62
 
 ### Jupyter Notebooks
 
-All jupyter notebooks are available as ipynb and designed to be run on Google Colab.
+All jupyter notebooks are available as ipynb and designed to be run on **Google Colab**.
 
 * test_functions: Test EmotionRecognition and EmotionRecognitionVideo functions and displaying the results
 
