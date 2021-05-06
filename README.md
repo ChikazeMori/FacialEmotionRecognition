@@ -55,17 +55,17 @@ HOG |MLP|	102.3 + 208.2 | 0.62
 
 All jupyter notebooks are available as ipynb and designed to be run on **Google Colab**.
 
-* test_functions: Test EmotionRecognition and EmotionRecognitionVideo functions and displaying the results
+* **test_functions**: Test EmotionRecognition and EmotionRecognitionVideo functions and displaying the results
 
 ### Folders
 
 * CW_Folder_ChikazeMori_200038013: Contains all the files needed for this projeect
-* /Code: Contains all of the codes implemented
+* /**Code**: Contains all of the codes implemented
 * /Models: Stores all the models trained
 * /Video: Contains all the videos produced as outputs
 
 ### Files
 
-* Code/EmotionRecognition.py: Displays 4 random images from the test set with the model’s predictions and the true labels
-* Code/EmotionRecognitionVideo.py: Displays the results of CNN model tested on a video
+* Code/**EmotionRecognition.py**: Displays 4 random images from the test set with the model’s predictions and the true labels
+* Code/**EmotionRecognitionVideo.py**: Displays the results of CNN model tested on a video
 * Report: The report for the whole project
